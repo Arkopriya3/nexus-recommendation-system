@@ -39,5 +39,4 @@ A content-based recommendation system that suggests content based on:
 ## Author
 Arkopriya Bhowmick
 
-[Course Name]
-[Date]
+
